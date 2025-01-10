@@ -1,0 +1,162 @@
+.diamond-row {
+    margin:0px auto;
+    width:90%;
+    height:500px;
+    position: relative;
+    overflow: hidden;
+}
+
+.diamond-row-inset {
+    position:relative;
+    left: 141.42px;
+    bottom: 141.42px;
+}
+
+
+.diamond {
+    position: absolute;
+    transform: rotate(45deg);
+    overflow: hidden;
+    border-radius: 10%;
+    z-index: 10;
+}
+
+.dia {
+    position: absolute;
+    transform: rotate(45deg);
+    overflow: hidden;
+    border-radius: 10%;
+    z-index: 10;
+}
+
+.diamond-child {
+    position: relative;
+    height: 141%;
+    width:141%;
+    background-size:cover;
+    background-color:#dbf3ff;
+    transform: rotate(-45deg);
+    display:none;
+    justify-content:stretch;
+    align-items:flex-end;
+}
+
+.dia-child {
+    position: relative;
+    height: 141%;
+    width:141%;
+    background-size:cover;
+    background-color:#dbf3ff;
+    transform: rotate(-45deg);
+    justify-content:stretch;
+    align-items:flex-end;
+}
+
+.diamond-content{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height:45%;
+    color:white;
+    padding: 3% 3% 3%;
+    background: linear-gradient(to bottom, #0077c9ee, #08283aee);
+    width:100%;
+}
+
+.diamond-title {
+    padding: 10px;
+    display: flex;
+    align-items: flex-end;
+}
+.diamond-title-alt {
+    padding: 10px 0px;
+}
+.diamond-title * {
+    color:white; 
+}
+
+.diamond-hidden-content{
+    flex:1;
+    display:none;
+    max-width: 60%;
+    font-size:14px;
+    line-height:1.2;
+}
+
+.diamond-icons {
+    flex:1;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.diamond-arrow-link, .diamond-industry-icon, .diamond-industry-icon-lg {
+    margin: 0px auto;
+}
+
+.diamond-industry-icon svg {
+    color: #3facef;
+    width: 35px;
+    height: 35px;
+}
+.diamond-industry-icon-lg svg {
+    color: #3facef;
+    width: 55px;
+    height: 55px;
+}
+.diamond-arrow-link-alt svg {
+    vertical-align: middle;
+    width: 15px;
+    height:15px;
+    transform: rotate(45deg);
+}
+
+.diamond-arrow-link-alt {
+    padding: 10px 0px;
+}
+.diamond-arrow-link-alt a {
+    font-weight: bold;
+    text-decoration: none;
+}
+.diamond-arrow-link-alt:hover span {
+    text-decoration: underline;
+}
+
+.diamond-arrow-link svg {
+    width: 25px;
+    height:25px;
+    transform: rotate(45deg);
+}
+
+.diamond:hover .diamond-hidden-content {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+:not(.single-diamond) > .diamond:hover .diamond-content {
+    background: linear-gradient(to bottom, #0077c9, #08283a);
+    height: 100%;
+    padding: 3% 3% 3%;
+    cursor: pointer;
+}
+.diamond:hover .diamond-title {
+    flex:1;
+}
+
+#diamond-container-narrow {
+    padding-top:50px;
+}
+
+.solo-diamond {
+    position:relative;margin:50px 25px 50px 0;
+    width: 400px;
+    height:360px;
+}
+
+@media(max-width: 900px) {
+    .solo-diamond {
+       margin:50px 25px 50px;
+    }
+}

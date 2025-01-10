@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industries on 911Cellular</title>
+    <link>https://911cellular.com/industries/</link>
+    <description>Recent content in Industries on 911Cellular</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://911cellular.com/industries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All-in-one safety solution for communities</title>
+      <link>https://911cellular.com/industries/public-safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://911cellular.com/industries/public-safety/</guid>
+      <description>Provide your community members with an all-in-one solution for emergency communication, service needs, tip submission, community resources and more. No matter the situation, they&amp;rsquo;ll always be in touch with the right people at the right time.</description>
+    </item>
+    <item>
+      <title>Hospital Violence and Critical Communication Solutions for Healthcare</title>
+      <link>https://911cellular.com/industries/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://911cellular.com/industries/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Integrated Campus Safety Solutions for Higher Education</title>
+      <link>https://911cellular.com/industries/higher-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://911cellular.com/industries/higher-education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-12 School Safety Solutions | Achieve Alyssa&#39;s Law Compliance</title>
+      <link>https://911cellular.com/industries/k12schools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://911cellular.com/industries/k12schools/</guid>
+      <description>After exhaustive deliberation, the Florida Department of Education&amp;rsquo;s Selection Committee rated 911Cellular as the #1 mobile panic alert system for Alyssa&amp;rsquo;s Law compliance in 2021.</description>
+    </item>
+  </channel>
+</rss>

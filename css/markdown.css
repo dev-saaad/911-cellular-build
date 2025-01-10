@@ -1,0 +1,76 @@
+.markdown p, .markdown h2, .markdown h3, .markdown h4, .markdown ul, .markdown ol {
+    max-width: 1000px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.markdown h2 {
+    color: #08283a;
+    font-weight:600;
+    font-style:normal;
+    font-size:2.25em;
+}
+
+.markdown h3 {
+    font-size:1.75em;
+    font-style:italic;
+    font-weight:400;
+    color:#0077c9;
+}
+
+.markdown h4 {
+    color: #08283a;
+    font-weight:600;
+    font-style:normal;
+    font-size:1.25em;
+}
+
+.markdown hr {
+    max-width: 75%;
+    width: 600px;
+    margin: 50px auto;
+    border:1px solid #e2f1fa;
+    height: 2px;
+}
+
+.markdown p, .markdown ul {
+    color: #08283a;
+    font-weight:300;
+}
+
+.pillar-nav {
+    min-width: 300px;
+    
+}
+.pillar-nav * {
+    list-style-type: none;
+}
+.pillar-nav a {
+    line-height: 1.75;
+    color: #2B79B3;
+    font-weight:400;
+    font-style: italic;
+}
+
+.pillar-flex{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+.markdown ul {
+list-style-type: none;
+}
+.markdown ul > li{
+text-indent: 0px;
+}
+.markdown ul > li:before {
+content: "-";
+margin-right:5px;
+}
+.markdown ol {
+    padding: 0 50px;
+}
