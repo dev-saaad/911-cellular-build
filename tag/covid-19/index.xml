@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 on 911Cellular</title>
-    <link>https://911cellular.com/tag/covid-19/</link>
+    <link>/tag/covid-19/</link>
     <description>Recent content in COVID-19 on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature Focus: COVID Tools, Submit Tip &amp; Resource Tile</title>
-      <link>https://911cellular.com/blog/covid-tools/</link>
+      <link>/blog/covid-tools/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/covid-tools/</guid>
-      <description>&lt;p&gt;Welcome to this week’s Feature Focus, where we highlight a specific aspect of the 911Cellular Solution and find out what makes it so valuable. Today’s topic is &lt;a href=&#34;https://www.911cellular.com/products/mobile-safety-app/&#34;&gt;Mobile Safety App&lt;/a&gt; features that can assist your organization in reopening, remaining open safely, and preventing the spread of COVID-19.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://911cellular.com/images/blog/911Cellular-Submit-Tip-COVID-Feature.jpg.webp&#34; alt=&#34;=Covid safety app&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Submit Tip feature&lt;/strong&gt; shines for its ability to be customized and molded to fit your organization’s needs. Administrators can create tip categories such as ‘social distancing violation’, ‘unsafe public gathering’, etc. App users can easily and discreetly notify health and safety forces anonymously as well as include helpful pictures and videos. In turn, safety forces have the option to start a conversation with the tip submitter, even if the tip submitter chose to remain anonymous. Additionally, the organization’s Administrators can be proactive in encouraging use of the feature by enabling a ‘See Something, Say Something’ campaign. This campaign will automatically send push notifications to a small portion of your community each day, asking them a question such as ‘have you seen any mask violations lately?’. When an app user clicks into the push notification, they will be taken directly to the Submit Tip feature.&lt;/p&gt;</description>
+      <guid>/blog/covid-tools/</guid>
+      <description>&lt;p&gt;Welcome to this week’s Feature Focus, where we highlight a specific aspect of the 911Cellular Solution and find out what makes it so valuable. Today’s topic is &lt;a href=&#34;https://www.911cellular.com/products/mobile-safety-app/&#34;&gt;Mobile Safety App&lt;/a&gt; features that can assist your organization in reopening, remaining open safely, and preventing the spread of COVID-19.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/images/blog/911Cellular-Submit-Tip-COVID-Feature.jpg.webp&#34; alt=&#34;=Covid safety app&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Submit Tip feature&lt;/strong&gt; shines for its ability to be customized and molded to fit your organization’s needs. Administrators can create tip categories such as ‘social distancing violation’, ‘unsafe public gathering’, etc. App users can easily and discreetly notify health and safety forces anonymously as well as include helpful pictures and videos. In turn, safety forces have the option to start a conversation with the tip submitter, even if the tip submitter chose to remain anonymous. Additionally, the organization’s Administrators can be proactive in encouraging use of the feature by enabling a ‘See Something, Say Something’ campaign. This campaign will automatically send push notifications to a small portion of your community each day, asking them a question such as ‘have you seen any mask violations lately?’. When an app user clicks into the push notification, they will be taken directly to the Submit Tip feature.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The COVID Safety System provides much-needed clarity for your organization</title>
-      <link>https://911cellular.com/blog/covid-safety-system/</link>
+      <link>/blog/covid-safety-system/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/covid-safety-system/</guid>
+      <guid>/blog/covid-safety-system/</guid>
       <description>&lt;p&gt;The rhythm of our daily life, the decisions we make, and how we operate our organizations have all been deeply affected by the COVID-19 pandemic. For many organizations, the pressure to reopen for economic and social reasons are being heavily weighed against exposure and liability risks. Business owners find themselves with decision paralysis when it comes to determining what a successful and safe reopening process looks like. In order to cut through the confusion and frustration surrounding reopening, &lt;a href=&#34;https://www.911cellular.com/&#34;&gt;911Cellular&lt;/a&gt; has created the COVID Safety System. If you’re thinking about reopening your facilities, do so safely by reducing the level of uncertainty involving COVID-19 within your organization.&lt;/p&gt;</description>
     </item>
   </channel>

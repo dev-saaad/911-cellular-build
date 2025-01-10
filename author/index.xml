@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on 911Cellular</title>
-    <link>https://911cellular.com/author/</link>
+    <link>/author/</link>
     <description>Recent content in Author on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>911Cellular</title>
-      <link>https://911cellular.com/author/911cellular/</link>
+      <link>/author/911cellular/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/author/911cellular/</guid>
+      <guid>/author/911cellular/</guid>
       <description></description>
     </item>
     <item>
       <title>Chimé Richardson</title>
-      <link>https://911cellular.com/author/chim%C3%A9-richardson/</link>
+      <link>/author/chim%C3%A9-richardson/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/author/chim%C3%A9-richardson/</guid>
+      <guid>/author/chim%C3%A9-richardson/</guid>
       <description></description>
     </item>
     <item>
       <title>Dan Salahshour</title>
-      <link>https://911cellular.com/author/dan-salahshour/</link>
+      <link>/author/dan-salahshour/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/author/dan-salahshour/</guid>
+      <guid>/author/dan-salahshour/</guid>
       <description></description>
     </item>
   </channel>

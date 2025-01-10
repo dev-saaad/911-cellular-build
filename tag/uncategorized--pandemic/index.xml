@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized , Pandemic on 911Cellular</title>
-    <link>https://911cellular.com/tag/uncategorized--pandemic/</link>
+    <link>/tag/uncategorized--pandemic/</link>
     <description>Recent content in Uncategorized , Pandemic on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/uncategorized--pandemic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/uncategorized--pandemic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Remote Deployment During a Pandemic</title>
-      <link>https://911cellular.com/blog/remote-deployment/</link>
+      <link>/blog/remote-deployment/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/remote-deployment/</guid>
+      <guid>/blog/remote-deployment/</guid>
       <description>&lt;p&gt;The COVID-19 pandemic has emphasized the importance of contactless delivery when it comes to grocery shopping and food delivery. But what about businesses outside of the food industry? How can businesses owners, integrators and other partners sell their products while the majority of people are still working away from the office?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Many Americans are still staying home, even as some states begin to reopen, according to an analysis from &lt;a href=&#34;https://www.washingtonpost.com/graphics/2020/national/map-us-still-staying-home-coronavirus/?itid=hp_hp-banner-main_graphic-stayathome-1140am:homepage/story-ans&#34;&gt;The Washington Post&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

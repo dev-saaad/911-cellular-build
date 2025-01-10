@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“Incident Recovery” on 911Cellular</title>
-    <link>https://911cellular.com/tag/incident-recovery/</link>
+    <link>/tag/incident-recovery/</link>
     <description>Recent content in “Incident Recovery” on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/incident-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/incident-recovery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Critical Incident Debrief: Why Post-Incident Analysis is Crucial for Improvement</title>
-      <link>https://911cellular.com/blog/why-post-incident-analysis-is-crucial-for-improvement/</link>
+      <link>/blog/why-post-incident-analysis-is-crucial-for-improvement/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/why-post-incident-analysis-is-crucial-for-improvement/</guid>
+      <guid>/blog/why-post-incident-analysis-is-crucial-for-improvement/</guid>
       <description>&lt;p&gt;Responding to critical incidents requires well-prepared plans and swift action. However, even the most comprehensive can encounter unforeseen challenges when put into practice. Making post-incident analysis an essential part of your critical incident management strategy. By conducting thorough reviews and debriefs after an incident, organizations can identify areas for improvement, strengthen their procedures and enhance their ability to handle future crises.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Managing Mental Health After Critical Incidents: Post-Traumatic Support Strategies</title>
-      <link>https://911cellular.com/blog/managing-mental-health-after-critical-incidents/</link>
+      <link>/blog/managing-mental-health-after-critical-incidents/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/managing-mental-health-after-critical-incidents/</guid>
+      <guid>/blog/managing-mental-health-after-critical-incidents/</guid>
       <description>&lt;p&gt;After a critical incident, the immediate focus is often on physical safety and operational continuity. Yet, the psychological impact on employees, students or community members can have a profound, lasting effect. Addressing mental health is essential for recovery and resilience. For business owners, healthcare leaders, school administrators and management teams, understanding how to support the mental well-being of those affected is crucial. This guide provides insights and actionable advice to help organizations support the healing journey after critical incidents.&lt;/p&gt;</description>
     </item>
   </channel>

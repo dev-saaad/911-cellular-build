@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebooks on 911Cellular</title>
-    <link>https://911cellular.com/ebooks/</link>
+    <link>/ebooks/</link>
     <description>Recent content in Ebooks on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://911cellular.com/ebooks/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/ebooks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are your emergency messages reaching the right people?</title>
-      <link>https://911cellular.com/ebooks/are-your-emergency-messages-reaching-the-right-people/</link>
+      <link>/ebooks/are-your-emergency-messages-reaching-the-right-people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/are-your-emergency-messages-reaching-the-right-people/</guid>
+      <guid>/ebooks/are-your-emergency-messages-reaching-the-right-people/</guid>
       <description></description>
     </item>
     <item>
       <title>Campus Safety Apps | Student Engagement Matters</title>
-      <link>https://911cellular.com/ebooks/campus-safety-apps-student-engagement-matters/</link>
+      <link>/ebooks/campus-safety-apps-student-engagement-matters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/campus-safety-apps-student-engagement-matters/</guid>
+      <guid>/ebooks/campus-safety-apps-student-engagement-matters/</guid>
       <description></description>
     </item>
     <item>
       <title>Complete Guide to Panic Buttons in Healthcare</title>
-      <link>https://911cellular.com/ebooks/complete-guide-to-panic-buttons-in-healthcare/</link>
+      <link>/ebooks/complete-guide-to-panic-buttons-in-healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/complete-guide-to-panic-buttons-in-healthcare/</guid>
+      <guid>/ebooks/complete-guide-to-panic-buttons-in-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Everything You Need to Know About Campus Safety</title>
-      <link>https://911cellular.com/ebooks/everything-you-need-to-know-about-campus-safety/</link>
+      <link>/ebooks/everything-you-need-to-know-about-campus-safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/everything-you-need-to-know-about-campus-safety/</guid>
+      <guid>/ebooks/everything-you-need-to-know-about-campus-safety/</guid>
       <description></description>
     </item>
     <item>
       <title>Reducing Violent Incidents Against Healthcare Employees</title>
-      <link>https://911cellular.com/ebooks/reducing-violent-incidents-against-healthcare-employees/</link>
+      <link>/ebooks/reducing-violent-incidents-against-healthcare-employees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/reducing-violent-incidents-against-healthcare-employees/</guid>
+      <guid>/ebooks/reducing-violent-incidents-against-healthcare-employees/</guid>
       <description></description>
     </item>
     <item>
       <title>The Critical Cost of Violence in Healthcare</title>
-      <link>https://911cellular.com/ebooks/the-critical-cost-of-violence-in-healthcare/</link>
+      <link>/ebooks/the-critical-cost-of-violence-in-healthcare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/the-critical-cost-of-violence-in-healthcare/</guid>
+      <guid>/ebooks/the-critical-cost-of-violence-in-healthcare/</guid>
       <description></description>
     </item>
     <item>
       <title>Ultimate Guide to Campus Safety Apps</title>
-      <link>https://911cellular.com/ebooks/ultimate-guide-to-campus-safety-apps/</link>
+      <link>/ebooks/ultimate-guide-to-campus-safety-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/ebooks/ultimate-guide-to-campus-safety-apps/</guid>
+      <guid>/ebooks/ultimate-guide-to-campus-safety-apps/</guid>
       <description></description>
     </item>
   </channel>

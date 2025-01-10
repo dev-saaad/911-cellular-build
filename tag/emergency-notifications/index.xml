@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“Emergency Notifications” on 911Cellular</title>
-    <link>https://911cellular.com/tag/emergency-notifications/</link>
+    <link>/tag/emergency-notifications/</link>
     <description>Recent content in “Emergency Notifications” on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/emergency-notifications/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/emergency-notifications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Mass Notification Systems Keep Hospitals Operational During Severe Weather</title>
-      <link>https://911cellular.com/blog/how-mass-notification-systems-keep-hospitals-operational-during-severe-weather/</link>
+      <link>/blog/how-mass-notification-systems-keep-hospitals-operational-during-severe-weather/</link>
       <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/how-mass-notification-systems-keep-hospitals-operational-during-severe-weather/</guid>
+      <guid>/blog/how-mass-notification-systems-keep-hospitals-operational-during-severe-weather/</guid>
       <description>&lt;p&gt;From hurricanes to blizzards, severe weather events can present significant challenges for hospital operations, jeopardizing patient care and compromising safety. To remain operational and provide critical and life-saving care during these challenging weather events, hospital administrators must implement a comprehensive critical incident strategy bolstered by mass notification systems. Mass notification systems help ensure uninterrupted operations, safeguard patients and staff and maintain effective communication in the face of logistical challenges.&lt;/p&gt;</description>
     </item>
   </channel>

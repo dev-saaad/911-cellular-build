@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Severe Weather on 911Cellular</title>
-    <link>https://911cellular.com/tag/severe-weather/</link>
+    <link>/tag/severe-weather/</link>
     <description>Recent content in Severe Weather on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/severe-weather/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/severe-weather/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bracing For Severe Weather in 2019</title>
-      <link>https://911cellular.com/blog/severe-weather/</link>
+      <link>/blog/severe-weather/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/severe-weather/</guid>
+      <guid>/blog/severe-weather/</guid>
       <description>&lt;p&gt;The last two years were quite stressful for large portions of the United States living in areas prone to natural disasters and severe weather. In 2018, the US incurred a record high of $33.79 billion in damages due to 15 storms, eight hurricanes and two major tornadoes.&lt;/p&gt;&#xA;&lt;p&gt;As the United States is still under the threat of catastrophic hurricanes and storms, it is slowly becoming essential that various institutions take advantage of severe weather alert systems. 2019 is likely to follow in the footsteps of 2018, bringing about a slew of storms and hurricanes of varying strengths.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“Emergency Preparedness” on 911Cellular</title>
-    <link>https://911cellular.com/tag/emergency-preparedness/</link>
+    <link>/tag/emergency-preparedness/</link>
     <description>Recent content in “Emergency Preparedness” on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/emergency-preparedness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/emergency-preparedness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emergency Preparedness for the Hybrid Workplace</title>
-      <link>https://911cellular.com/blog/emergency-preparedness-for-the-hybrid-workplace/</link>
+      <link>/blog/emergency-preparedness-for-the-hybrid-workplace/</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/emergency-preparedness-for-the-hybrid-workplace/</guid>
+      <guid>/blog/emergency-preparedness-for-the-hybrid-workplace/</guid>
       <description>&lt;p&gt;The hybrid model has become the new norm in today&amp;rsquo;s rapidly evolving workplace landscape. While this approach combines the flexibility of remote work with the structure of in-office days, it also brings unique challenges - especially regarding emergency preparedness. Whether employees are at their desks in the office or working remotely, organizations must prioritize safety to ensure seamless responses to any crisis.&lt;/p&gt;</description>
     </item>
   </channel>

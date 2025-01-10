@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CIO on 911Cellular</title>
-    <link>https://911cellular.com/tag/cio/</link>
+    <link>/tag/cio/</link>
     <description>Recent content in CIO on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/cio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/cio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>911Cellular is named one of the Top Government Tech Solution Providers of 2018</title>
-      <link>https://911cellular.com/blog/911cellular-is-named-one-of-the-top-government-tech-solution-providers/</link>
+      <link>/blog/911cellular-is-named-one-of-the-top-government-tech-solution-providers/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/911cellular-is-named-one-of-the-top-government-tech-solution-providers/</guid>
+      <guid>/blog/911cellular-is-named-one-of-the-top-government-tech-solution-providers/</guid>
       <description>&lt;p&gt;911Cellular is named one of the Top Government Tech Solution Providers of 2018 in CIO Applications Magazine. CIO Magazine sat down with Chad Salahshour, the President and CEO of 911Cellular, to talk about how 911Cellular came to fruition. Chad is still actively involved with a local police department, and it’s because of his law enforcement background that he created and started implementing our lifesaving technology across the country. 911Cellular works with dispatchers and smartphone users to open up the lines of emergency communication and to pinpoint your location during an emergency.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multilingual Support on 911Cellular</title>
-    <link>https://911cellular.com/tag/multilingual-support/</link>
+    <link>/tag/multilingual-support/</link>
     <description>Recent content in Multilingual Support on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/multilingual-support/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/multilingual-support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature Focus: System Wide Multilingual Support</title>
-      <link>https://911cellular.com/blog/multilingual-support/</link>
+      <link>/blog/multilingual-support/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/multilingual-support/</guid>
+      <guid>/blog/multilingual-support/</guid>
       <description>&lt;p&gt;Welcome to this week’s Feature Focus, where we highlight a specific aspect of the 911Cellular Solution and find out what makes it so valuable. Today’s topic is multilingual support and the entirety of its reach through various products and services.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Why is offering multilingual support so important?&lt;/strong&gt; According to the United States Census Bureau, there are over 350 languages spoken within the United States. The graph below shows the number of languages spoken based on major metropolitan areas.&lt;/p&gt;</description>
     </item>
   </channel>

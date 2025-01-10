@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>“Critical Communication” on 911Cellular</title>
-    <link>https://911cellular.com/tag/critical-communication/</link>
+    <link>/tag/critical-communication/</link>
     <description>Recent content in “Critical Communication” on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/critical-communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/critical-communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Communication Breakdown in Business: How It Impacts Critical Incident Management and How to Address It</title>
-      <link>https://911cellular.com/blog/communication-breakdown-in-business/</link>
+      <link>/blog/communication-breakdown-in-business/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/communication-breakdown-in-business/</guid>
+      <guid>/blog/communication-breakdown-in-business/</guid>
       <description>&lt;p&gt;Even with a well-developed Critical Incident Management (CIM) plan, organizations are not immune to communication breakdowns during a crisis. Amid a critical incident, smooth communication can mean the difference between effective management and a disorganized response.&lt;/p&gt;&#xA;&lt;p&gt;A communication breakdown in business can disrupt even the best-laid plans, leading to delays, confusion, and increased risks. Understanding why these breakdowns occur and how to prevent them is essential for businesses aiming to maintain safety and efficiency.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crisis Communication in the Digital Age: How to Ensure Effective Messaging During Emergencies</title>
-      <link>https://911cellular.com/blog/crisis-communication-in-the-digital-age/</link>
+      <link>/blog/crisis-communication-in-the-digital-age/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/crisis-communication-in-the-digital-age/</guid>
+      <guid>/blog/crisis-communication-in-the-digital-age/</guid>
       <description>&lt;p&gt;In today&amp;rsquo;s fast-paced, interconnected world, crisis communication has become vital to any organization&amp;rsquo;s critical incident management strategy. From natural disasters to security threats, the ability to effectively communicate during a crisis can significantly impact the outcome and overall safety of those involved. But how can organizations ensure their crisis messaging is effective in the digital age?&lt;/p&gt;&#xA;&lt;p&gt;To effectively communicate during an emergency, we must consider the evolution of crisis communication, the challenges and opportunities presented by social media, and use this&#xA;knowledge to develop a successful strategy for the future.&lt;/p&gt;</description>
     </item>
   </channel>

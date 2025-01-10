@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wildfire on 911Cellular</title>
-    <link>https://911cellular.com/tag/wildfire/</link>
+    <link>/tag/wildfire/</link>
     <description>Recent content in Wildfire on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/wildfire/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/wildfire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wildfires &amp; Communication</title>
-      <link>https://911cellular.com/blog/wildfire-communication/</link>
+      <link>/blog/wildfire-communication/</link>
       <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/wildfire-communication/</guid>
+      <guid>/blog/wildfire-communication/</guid>
       <description>&lt;p&gt;Communication during wildfires is crucial.&lt;/p&gt;&#xA;&lt;p&gt;It’s been a devastating wildfire season so far in 2018. West coast residents have been exposed to 16 major wildfires that have burned more than 300,000 acres. The size of these wildfires are particularly troubling, as are their proximity to inhabited communities.&lt;/p&gt;&#xA;&lt;p&gt;Many residents are seeing their homes burn despite taking the recommended precautions (creating defensible space and using non-flammable building materials). In some cases, the flame wall can ignite homes from half a mile away, with embers flying above rivers and roads to set the homes ablaze.&lt;/p&gt;</description>
     </item>
   </channel>

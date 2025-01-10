@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event Safety on 911Cellular</title>
-    <link>https://911cellular.com/tag/event-safety/</link>
+    <link>/tag/event-safety/</link>
     <description>Recent content in Event Safety on 911Cellular</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://911cellular.com/tag/event-safety/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tag/event-safety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Importance of Agile Geofencing Within Critical Communication Technology</title>
-      <link>https://911cellular.com/blog/geofencing/</link>
+      <link>/blog/geofencing/</link>
       <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/geofencing/</guid>
+      <guid>/blog/geofencing/</guid>
       <description>&lt;h2 id=&#34;what-is-geofencing&#34;&gt;What is geofencing?&lt;/h2&gt;&#xA;&lt;p&gt;Geofencing has become a popular term and buzzword in recent years that carries with it a variety of applications in many markets. Aside from geofencing being used for marketing purposes and in the business to consumer realm, proper use of geofencing technology can be a prime differentiator for companies looking to provide critical communication services and lifesaving solutions to other organizations.&lt;/p&gt;&#xA;&lt;p&gt;But let’s back up for a second and define what a geofence actually is…&lt;/p&gt;</description>
     </item>
     <item>
       <title>Event Safety Relevant Now More Than Ever</title>
-      <link>https://911cellular.com/blog/event-safety/</link>
+      <link>/blog/event-safety/</link>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://911cellular.com/blog/event-safety/</guid>
+      <guid>/blog/event-safety/</guid>
       <description>&lt;p&gt;With the World Cup starting this week, most of us are thinking about the matches, festivities and glory. But for those who are tasked with providing event safety, the soccer is likely near the back of their minds. Event safety can be extremely complicated, especially for an event that spans a full month and covers an entire county (in this case, a country that is almost an entire continent). Event safety complications arise from both inside and outside the venues. Especially in soccer, where fans are notorious for their extra-curricular fights (see the movie Green Street Hooligans for more insight).&lt;/p&gt;</description>
     </item>
   </channel>
